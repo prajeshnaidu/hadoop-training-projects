@@ -1,2 +1,2 @@
 # hadoop-training-projects
-Projects from ny hadoop training sessions
+Projects from my hadoop training sessions
